@@ -1,6 +1,6 @@
 import React from "react";
-import "./About.css";
+import "./Nav.css";
 
-export default function About() {
+export default function Nav() {
 	return <div className=""></div>;
 }

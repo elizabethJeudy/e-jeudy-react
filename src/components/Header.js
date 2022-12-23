@@ -1,6 +1,6 @@
 import React from "react";
-import "./About.css";
+import "./Header.css";
 
-export default function About() {
+export default function Header() {
 	return <div className=""></div>;
 }
