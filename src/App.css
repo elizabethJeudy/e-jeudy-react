@@ -1,5 +1,80 @@
-body {
-  text-align: center;
-  background-color: #FCF9F2;
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Roboto+Mono:ital,wght@0,200;1,500&display=swap');
 
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+:root {
+  --bg-color: #FCF9F2;
+  --btn-color: #EFE7DC;
+  --bdr-color1: #A68A64;
+  --bdr-color2: #582F0E;
+  --transition: all 400ms ease;
+  /* change of width sizes for media queries */
+  --container-width-lg: 75%;
+  --container-width-md: 86%;
+  --container-width-sm: 90%;
+}
+
+/* scroll behavior will apply to entire html page */
+html {
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  background-color: var(--bg-color);
+}
+
+.container {
+  width: var(--container-width-lg);
+  margin: 0 auto;
+}
+
+section {
+  margin-top: 8em;
+}
+
+section h2,
+section h5 {
+  text-align: center;
+  color: var(--btn-color);
+}
+
+img {
+  display: block;
+  width: 100%;
+  object-fit: cover;
+}
+
+/* media queries for medium devices */
+
+@media screen and (max-width: 1024px) {
+  .container {
+    width: var(--container-width-md);
+  }
+
+  section {
+    margin-top: 6em;
+  }
+}
+
+/* media queries for small devices */
+
+@media screen and (max-width: 600px) {
+  .container {
+    width: var(--container-width-sm);
+  }
+
+  section h2 {
+    margin-bottom: 2em;
+  }
 }
