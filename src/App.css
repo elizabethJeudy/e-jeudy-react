@@ -49,6 +49,11 @@ section h5 {
   color: var(--btn-color);
 }
 
+
+.text-light {
+  opacity: .2;
+}
+
 img {
   display: block;
   width: 100%;
