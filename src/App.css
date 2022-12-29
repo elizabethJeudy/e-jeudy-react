@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Roboto+Mono:ital,wght@0,200;1,500&display=swap');
 
+/* general stying */
+
 * {
   margin: 0;
   padding: 0;
@@ -11,7 +13,8 @@
 
 :root {
   --bg-color: #FCF9F2;
-  --btn-color: #EFE7DC;
+  --btn-color1: #000;
+  --btn-color2: #EFE7DC;
   --bdr-color1: #A68A64;
   --bdr-color2: #582F0E;
   --transition: all 400ms ease;
@@ -49,15 +52,51 @@ section h5 {
   color: var(--btn-color);
 }
 
-
 .text-light {
-  opacity: .2;
+  opacity: .25;
 }
 
 img {
   display: block;
   width: 100%;
   object-fit: cover;
+}
+
+a {
+  color: var(--bdr-color2);
+}
+
+a:hover {
+  color: var(--bdr-color1);
+}
+
+.btn {
+  width: max-content;
+  display: inline-block;
+  background-color: var(--btn-color1);
+  color: var(--btn-color2);
+  padding: .75em 1.2em;
+  border-radius: .4em;
+  cursor: pointer;
+  border: 1px solid var(--btn-color1);
+  transition: var(--transition);
+}
+
+.btn:hover {
+  background-color: var(--bg-color);
+  color: var(--btn-color1);
+  border-color: transparent;
+}
+
+.btn-primary {
+  background-color: var(--bg-color);
+  color: var(--btn-color1);
+  border-color: transparent;
+}
+
+.btn-primary:hover {
+  color: var(--bdr-color1);
+  border-color: var(--btn-color1);
 }
 
 /* media queries for medium devices */

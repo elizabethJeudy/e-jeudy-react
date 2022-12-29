@@ -1,12 +1,12 @@
 import React from "react";
 import "./App.css";
 import Header from "./components/Header";
+
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Nav from "./components/Nav";
 import Projects from "./components/Projects";
-import CTA from "./components/CTA";
 
 export default function App() {
 	return (
