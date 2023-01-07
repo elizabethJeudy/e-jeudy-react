@@ -1,3 +1,9 @@
+h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .aboutContainer {
   display: grid;
   grid-template-columns: 35% 50%;
