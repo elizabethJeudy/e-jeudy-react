@@ -1,0 +1,30 @@
+footer {
+  background: var(--bdr-color1);
+  padding: 1rem 0;
+  text-align: center;
+  font-size: .9rem;
+  margin-top: 7rem;
+}
+
+.footer-logo {
+  display: inline-block;
+  max-width: 10rem;
+  margin-bottom: 2rem;
+}
+
+.permalinks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin: 0 auto 3rem;
+}
+
+a:hover {
+  color: var(--btn-color1);
+}
+
+.footer-copyright {
+  margin-bottom: 4.5rem;
+
+}
