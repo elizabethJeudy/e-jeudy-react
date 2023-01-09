@@ -7,7 +7,7 @@ export default function CTA() {
 			<a href={Resume} download className="btn">
 				Resume
 			</a>
-			<a href="#contact" className="btn btn-primary">
+			<a href="mailto:tjeudy.e@gmail.com" className="btn btn-primary">
 				Get in touch
 			</a>
 		</div>
