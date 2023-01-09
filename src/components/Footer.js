@@ -19,11 +19,11 @@ export default function Footer() {
 				<li>
 					<a href="#projects">Projects</a>
 				</li>
-				<a href="#">Contact</a>
+				<a href="#contact">Contact</a>
 			</ul>
 
 			<footer className="footer-copyright">
-				<small>&copy; Elizabeth Jeudy. All rights reserved</small>
+				<small>&copy; 2022 Elizabeth Jeudy</small>
 			</footer>
 		</footer>
 	);
