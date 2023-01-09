@@ -40,10 +40,6 @@ export default function About() {
 						and more recently with desktop publishing software like Aldus
 						PageMaker including versions of Lorem Ipsum
 					</p>
-
-					<a href="#contact" className="btn">
-						Let's Talk!
-					</a>
 				</div>
 			</div>
 		</section>
