@@ -4,6 +4,7 @@ import weatherappjs from "../images/weatherappjs.jpg";
 import worldofwizadry from "../images/worldofwizadry.jpg";
 import weatherappreact from "../images/weatherappreact.jpg";
 import drumkit from "../images/drumkit.jpg";
+import CTA from "./CTA";
 
 export default function Projects() {
 	return (
@@ -110,6 +111,7 @@ export default function Projects() {
 					</div>
 				</article>
 			</div>
+			<CTA />
 		</section>
 	);
 }

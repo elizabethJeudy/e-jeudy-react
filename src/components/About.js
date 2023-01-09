@@ -7,8 +7,6 @@ import { VscNewFolder } from "react-icons/vsc";
 export default function About() {
 	return (
 		<section id="about">
-			<h2>About Me</h2>
-
 			<div className="container aboutContainer">
 				<div className="about-me">
 					<div className="about-me-img">
@@ -16,6 +14,7 @@ export default function About() {
 					</div>
 				</div>
 				<div className="about-content">
+					<h2>About Me</h2>
 					<div className="about-cards">
 						<article className="about-card">
 							<FaAward className="about-icon" />
@@ -31,12 +30,15 @@ export default function About() {
 					</div>
 
 					<p>
-						My interest in code started in in February of 2022 and by May, I had
-						enrolled in SheCodes Workshops. Since then, I've completed SheCodes
-						Basics, SheCodes Plus, SheCodes Responsive, and I am currently
-						completing SheCodes React. Simultaneously, I am learning through
-						CodeCademy. I love to build things and I love learning new ways to
-						build them.
+						Lorem Ipsum is simply dummy text of the printing and typesetting
+						industry. Lorem Ipsum has been the industry's standard dummy text
+						ever since the 1500s, when an unknown printer took a galley of type
+						and scrambled it to make a type specimen book. It has survived not
+						only five centuries, but also the leap into electronic typesetting,
+						remaining essentially unchanged. It was popularised in the 1960s
+						with the release of Letraset sheets containing Lorem Ipsum passages,
+						and more recently with desktop publishing software like Aldus
+						PageMaker including versions of Lorem Ipsum
 					</p>
 
 					<a href="#contact" className="btn">
