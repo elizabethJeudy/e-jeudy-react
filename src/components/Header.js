@@ -1,6 +1,5 @@
 import React from "react";
 import "./Header.css";
-import lizzy2 from "../images/lizzy2.svg";
 import Socials from "./Socials";
 
 export default function Header() {
@@ -10,11 +9,9 @@ export default function Header() {
 				<h1>Elizabeth Jeudy</h1>
 				<h5 className="text-light">Front-end Developer</h5>
 				<Socials />
-				<div className="me">
-					<img src={lizzy2} alt="me" />
-				</div>
+
 				<a href="#contact" className="scroll-down">
-					Scroll Down
+					Resume
 				</a>
 			</div>
 		</header>
