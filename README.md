@@ -2,7 +2,7 @@
 
 ## Description:
 
-### This site is the homepage for my portfoio. It will show previous projects I've worked on, links with social media, and contact info.
+##### This site is the homepage for my portfoio. It will show previous projects I've worked on, links with social media, and contact info.
 
 ## What I Learned:
 
@@ -22,7 +22,7 @@
 
 ## Technologies Used:
 
-### React.js
+#### React.js
 
 ## Contact
 
