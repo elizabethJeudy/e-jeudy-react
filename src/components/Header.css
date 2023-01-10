@@ -45,6 +45,7 @@ header {
   header {
     height: 15vh;
   }
+
 }
 
 /* media queries small devices */
@@ -58,4 +59,6 @@ header {
   .scroll-down {
     display: none;
   }
+
+
 }
