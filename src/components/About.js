@@ -24,7 +24,15 @@ export default function About() {
 
 						<article className="about-card">
 							<VscNewFolder className="about-icon" />
-							<h5>Projects</h5>
+							<a
+								href="https://github.com/elizabethJeudy"
+								target="_blank"
+								rel="noreferrer"
+								className="github-projects"
+							>
+								<h5>Projects</h5>
+							</a>
+
 							<small>10+ Completed </small>
 						</article>
 					</div>
@@ -44,8 +52,8 @@ export default function About() {
 						Since that interest, I've been able to reignite my passion for
 						creativity and combine it with creating web applications. I've
 						developed a couple of projects that you'll find below which I am
-						proud of. I am now looking for a junior developer position, but in
-						the meantime I will continue creating and learning.
+						proud of. I am now looking for a entry-level developer position, but
+						in the meantime I will continue creating and learning.
 						<br />
 						<br />
 						When I am not coding, I am reading a new book, or on a travel

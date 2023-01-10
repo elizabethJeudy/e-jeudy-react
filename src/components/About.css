@@ -8,6 +8,16 @@ p {
   padding-top: 1rem;
 }
 
+.github-projects {
+  color: var(--btn-color1);
+}
+
+.github-projects:hover {
+  color: var(--bdr-color2);
+
+}
+
+
 .aboutContainer {
   display: grid;
   grid-template-columns: 35% 50%;
