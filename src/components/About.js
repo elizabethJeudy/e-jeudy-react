@@ -31,25 +31,34 @@ export default function About() {
 
 					<p>
 						Hey, I'm Elizabeth and I am newly passionate about building things
-						for the web. My journey truly began in 2007 when I was a middle
-						schooler playing with my MySpace page layout which taught me about
-						HTML & CSS, and never thought anything more of it. Fast foward to
-						10+ years later and who would have guessed!
+						for the web. My journey originally began when I was a middle
+						schooler customizing MySpace themes which taught me about HTML &
+						CSS, and never thought anything more of it. Fast foward to 10+ years
+						later and who would have guessed!
 						<br />
 						<br />
-						The beginning of 2022 is where it again piqued my interest, however
-						like most career switchers, I didn't think it would be something I
-						could do.
+						The beginning of 2022 is where it truly piqued my interest, however
+						like most career switchers, I didn't believe learning how to program
+						would be a concept I could grasp.
 						<br />
-						Since then, I have completed courses on Codecademy, and completed
-						the SheCodes Pro Workshops. I've developed a couple of projects that
-						you'll find below which I am proud of. I am now looking for a junior
-						developer position, but in the meantime I will continue creating
-						what I enjoy.
+						Since that interest, I've been able to reignite my passion for
+						creativity and combine it with creating web applications. I've
+						developed a couple of projects that you'll find below which I am
+						proud of. I am now looking for a junior developer position, but in
+						the meantime I will continue creating and learning.
 						<br />
 						<br />
-						Feel free to connect if you'd like to collab together or want a new
-						devloper friend!
+						When I am not coding, I am reading a new book, or on a travel
+						adventure. If you'd like to work on a project together or want to
+						gain new a developer friend, feel free to{" "}
+						<a
+							href="https://www.linkedin.com/in/elizabeth-jeudy/"
+							target="_blank"
+							rel="noreferrer"
+						>
+							connect
+						</a>
+						!
 					</p>
 				</div>
 			</div>
