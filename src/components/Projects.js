@@ -111,7 +111,9 @@ export default function Projects() {
 					</div>
 				</article>
 			</div>
-			<CTA />
+			<div id="contact">
+				<CTA />
+			</div>
 		</section>
 	);
 }
