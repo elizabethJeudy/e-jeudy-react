@@ -30,15 +30,26 @@ export default function About() {
 					</div>
 
 					<p>
-						Lorem Ipsum is simply dummy text of the printing and typesetting
-						industry. Lorem Ipsum has been the industry's standard dummy text
-						ever since the 1500s, when an unknown printer took a galley of type
-						and scrambled it to make a type specimen book. It has survived not
-						only five centuries, but also the leap into electronic typesetting,
-						remaining essentially unchanged. It was popularised in the 1960s
-						with the release of Letraset sheets containing Lorem Ipsum passages,
-						and more recently with desktop publishing software like Aldus
-						PageMaker including versions of Lorem Ipsum
+						Hey, I'm Elizabeth and I am newly passionate about building things
+						for the web. My journey truly began in 2007 when I was a middle
+						schooler playing with my MySpace page layout which taught me about
+						HTML & CSS, and never thought anything more of it. Fast foward to
+						10+ years later and who would have guessed!
+						<br />
+						<br />
+						The beginning of 2022 is where it again piqued my interest, however
+						like most career switchers, I didn't think it would be something I
+						could do.
+						<br />
+						Since then, I have completed courses on Codecademy, and completed
+						the SheCodes Pro Workshops. I've developed a couple of projects that
+						you'll find below which I am proud of. I am now looking for a junior
+						developer position, but in the meantime I will continue creating
+						what I enjoy.
+						<br />
+						<br />
+						Feel free to connect if you'd like to collab together or want a new
+						devloper friend!
 					</p>
 				</div>
 			</div>
