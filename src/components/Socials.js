@@ -1,6 +1,7 @@
 import React from "react";
 import { SlSocialLinkedin } from "react-icons/sl";
 import { SiGithub } from "react-icons/si";
+import { CiTwitter } from "react-icons/ci";
 
 export default function Socials() {
 	return (
@@ -18,6 +19,10 @@ export default function Socials() {
 				rel="noreferrer"
 			>
 				<SiGithub />
+			</a>
+
+			<a href="https://twitter.com/LizzyCodes" target="_blank" rel="noreferrer">
+				<CiTwitter />
 			</a>
 		</div>
 	);
