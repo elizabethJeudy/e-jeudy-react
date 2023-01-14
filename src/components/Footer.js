@@ -1,6 +1,9 @@
 import React from "react";
 import "./Footer.css";
 import logo2 from "../images/logo2.jpg";
+import { SlSocialLinkedin } from "react-icons/sl";
+import { SiGithub } from "react-icons/si";
+import { SlSocialTwitter } from "react-icons/sl";
 
 export default function Footer() {
 	return (
@@ -21,6 +24,30 @@ export default function Footer() {
 				</li>
 				<a href="#contact">Contact</a>
 			</ul>
+			<div className="socials">
+				<a
+					href="https://www.linkedin.com/in/elizabeth-jeudy/"
+					target="_blank"
+					rel="noreferrer"
+				>
+					<SlSocialLinkedin />
+				</a>
+				<a
+					href="https://github.com/elizabethJeudy"
+					target="_blank"
+					rel="noreferrer"
+				>
+					<SiGithub />
+				</a>
+
+				<a
+					href="https://twitter.com/LizzyCodes"
+					target="_blank"
+					rel="noreferrer"
+				>
+					<SlSocialTwitter />
+				</a>
+			</div>
 
 			<footer className="footer-copyright">
 				<small>&copy; 2022 Elizabeth Jeudy</small>
