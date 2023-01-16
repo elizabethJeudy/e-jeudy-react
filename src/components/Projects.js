@@ -1,7 +1,5 @@
 import React from "react";
 import "./Projects.css";
-import weatherappjs from "../images/weatherappjs.jpg";
-import worldofwizadry from "../images/worldofwizadry.jpg";
 import weatherappreact from "../images/weatherappreact.jpg";
 import drumkit from "../images/drumkit.jpg";
 import CTA from "./CTA";
@@ -11,56 +9,6 @@ export default function Projects() {
 		<section id="projects">
 			<h2>Projects</h2>
 			<div className="container projectsContainer">
-				<article className="project-item">
-					<div className="project-img">
-						<img src={weatherappjs} alt=""></img>
-					</div>
-					<h3>Weather App</h3>
-					<div className="ctaBtns">
-						<a
-							href="https://github.com/elizabethJeudy/weatherApp"
-							className="btn"
-							target="_blank"
-							rel="noreferrer"
-						>
-							Github
-						</a>
-						<a
-							href="https://shecodes-weatherapp.netlify.app/"
-							className="btn btn-primary"
-							target="_blank"
-							rel="noreferrer"
-						>
-							Demo
-						</a>
-					</div>
-				</article>
-
-				<article className="project-item">
-					<div className="project-img">
-						<img src={worldofwizadry} alt=""></img>
-					</div>
-					<h3>World of Wizardry</h3>
-					<div className="ctaBtns">
-						<a
-							href="https://github.com/elizabethJeudy/harryPotter"
-							className="btn"
-							target="_blank"
-							rel="noreferrer"
-						>
-							Github
-						</a>
-						<a
-							href="https://worldofwizardry.netlify.app/"
-							className="btn btn-primary"
-							target="_blank"
-							rel="noreferrer"
-						>
-							Demo
-						</a>
-					</div>
-				</article>
-
 				<article className="project-item">
 					<div className="project-img">
 						<img src={weatherappreact} alt=""></img>
