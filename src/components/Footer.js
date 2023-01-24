@@ -23,7 +23,7 @@ export default function Footer() {
 				<li>
 					<a href="#projects">Projects</a>
 				</li>
-				<a href="#contact">Contact</a>
+				<a href="mailto:tjeudy.e@gmail.com #contact">Contact</a>
 			</ul>
 			<div className="socials">
 				<a
