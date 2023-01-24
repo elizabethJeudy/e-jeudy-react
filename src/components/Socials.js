@@ -2,6 +2,7 @@ import React from "react";
 import { SlSocialLinkedin } from "react-icons/sl";
 import { SiGithub } from "react-icons/si";
 import { SlSocialTwitter } from "react-icons/sl";
+import { SiCodepen } from "react-icons/si";
 
 export default function Socials() {
 	return (
@@ -23,6 +24,10 @@ export default function Socials() {
 
 			<a href="https://twitter.com/LizzyCodes" target="_blank" rel="noreferrer">
 				<SlSocialTwitter />
+			</a>
+
+			<a href="https://codepen.io/elzbthxo" target="_blank" rel="noreferrer">
+				<SiCodepen />
 			</a>
 		</div>
 	);
