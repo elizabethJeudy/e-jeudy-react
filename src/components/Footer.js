@@ -4,6 +4,7 @@ import logo2 from "../images/logo2.jpg";
 import { SlSocialLinkedin } from "react-icons/sl";
 import { SiGithub } from "react-icons/si";
 import { SlSocialTwitter } from "react-icons/sl";
+import { SiCodepen } from "react-icons/si";
 
 export default function Footer() {
 	return (
@@ -46,6 +47,10 @@ export default function Footer() {
 					rel="noreferrer"
 				>
 					<SlSocialTwitter />
+				</a>
+
+				<a href="https://codepen.io/elzbthxo" target="_blank" rel="noreferrer">
+					<SiCodepen />
 				</a>
 			</div>
 
