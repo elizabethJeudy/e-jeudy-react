@@ -58,9 +58,9 @@ export default function Projects() {
 						</a>
 					</div>
 				</article>
-				<div id="contact" className="cta">
-					<CTA />
-				</div>
+			</div>
+			<div id="contact" className="cta">
+				<CTA />
 			</div>
 		</section>
 	);
