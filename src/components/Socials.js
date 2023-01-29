@@ -26,7 +26,11 @@ export default function Socials() {
 				<SlSocialTwitter />
 			</a>
 
-			<a href="https://codepen.io/elzbthxo" target="_blank" rel="noreferrer">
+			<a
+				href="https://codepen.io/elizabethJeudy"
+				target="_blank"
+				rel="noreferrer"
+			>
 				<SiCodepen />
 			</a>
 		</div>
