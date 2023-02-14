@@ -1,7 +1,7 @@
 import React from "react";
 import "./Projects.css";
 import weatherappreact from "../images/weatherappreact.jpg";
-import drumkit from "../images/drumkit.jpg";
+import dictionary from "../images/dictionary.png";
 import CTA from "./CTA";
 
 export default function Projects() {
@@ -36,12 +36,12 @@ export default function Projects() {
 
 				<article className="project-item">
 					<div className="project-img">
-						<img src={drumkit} alt=""></img>
+						<img src={dictionary} alt=""></img>
 					</div>
-					<h3>JavaScript 30 - Drumkit</h3>
+					<h3>Dictionary App</h3>
 					<div className="ctaBtns">
 						<a
-							href="https://github.com/elizabethJeudy/Javascript30/tree/main/drumKit"
+							href="https://github.com/elizabethJeudy/dictionary-app"
 							className="btn"
 							target="_blank"
 							rel="noreferrer"
@@ -49,7 +49,7 @@ export default function Projects() {
 							Github
 						</a>
 						<a
-							href="https://javascript30-drumkit01.netlify.app/"
+							href="https://dict-app-react.netlify.app/"
 							className="btn btn-primary"
 							target="_blank"
 							rel="noreferrer"
