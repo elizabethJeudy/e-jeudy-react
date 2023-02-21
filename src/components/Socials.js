@@ -27,7 +27,7 @@ export default function Socials() {
 			</a>
 
 			<a
-				href="https://codepen.io/elizabethJeudy"
+				href="https://codepen.io/elizabethJeudy/collections/"
 				target="_blank"
 				rel="noreferrer"
 			>
