@@ -38,27 +38,25 @@ export default function About() {
 					</div>
 
 					<p>
-						Hey, I'm Elizabeth and I am newly passionate about building things
-						for the web. My journey originally began when I was a middle
-						schooler customizing MySpace themes which taught me about HTML &
-						CSS, and never thought anything more of it. Fast foward to 10+ years
-						later and who would have guessed!
+						Hey, I'm Elizabeth and I'm an enthusiastic and driven Front End
+						Developer who is passionate about creating innovative and
+						user-friendly solutions. With my expertise in HTML, CSS, JavaScript,
+						and React, I have a strong foundation in Front-End web development
+						and am eager to expand my skills to Full Stack Development. <br />
+						<br />
+						I'm a creative problem-solver who is always seeking out new
+						challenges and opportunities to learn. I am adept at turning complex
+						problems into elegant solutions and committed to delivering
+						high-quality work that meets user needs.
 						<br />
 						<br />
-						The beginning of 2022 is where it truly piqued my interest, however
-						like most career switchers, I didn't believe learning how to program
-						would be a concept I could grasp.
-						<br />
-						Since that interest, I've been able to reignite my passion for
-						creativity and combine it with creating web applications. I've
-						developed a couple of projects that you'll find below which I am
-						proud of. I am now looking for a entry-level developer position, but
-						in the meantime I will continue creating and learning.
-						<br />
-						<br />
-						When I am not coding, I am reading a new book, or on a travel
-						adventure. If you'd like to work on a project together or want to
-						gain new a developer friend, feel free to{" "}
+						Beyond my technical skills, I'm a well-rounded individual who enjoys
+						reading and traveling in my free time. My curiosity and sense of
+						adventure make me a valuable team member who is always looking for
+						ways to grow and improve. If you're looking for a motivated and
+						talented Front End Developer with a passion for problem-solving and
+						a love of learning, I would love to be an excellent addition to your
+						team. Feel free to{" "}
 						<a
 							href="https://www.linkedin.com/in/elizabeth-jeudy/"
 							target="_blank"
