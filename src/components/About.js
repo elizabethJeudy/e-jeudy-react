@@ -38,7 +38,7 @@ export default function About() {
 					</div>
 
 					<p>
-						Hey, I'm Elizabeth and I'm an enthusiastic and driven Front End
+						Hey, I'm Elizabeth and I'm an enthusiastic and driven Software
 						Developer who is passionate about creating innovative and
 						user-friendly solutions. With my expertise in HTML, CSS, JavaScript,
 						and React, I have a strong foundation in Front-End web development
@@ -53,10 +53,7 @@ export default function About() {
 						Beyond my technical skills, I'm a well-rounded individual who enjoys
 						reading and traveling in my free time. My curiosity and sense of
 						adventure make me a valuable team member who is always looking for
-						ways to grow and improve. If you're looking for a motivated and
-						talented Front End Developer with a passion for problem-solving and
-						a love of learning, I would love to be an excellent addition to your
-						team. Feel free to{" "}
+						ways to grow and improve. Feel free to{" "}
 						<a
 							href="https://www.linkedin.com/in/elizabeth-jeudy/"
 							target="_blank"
