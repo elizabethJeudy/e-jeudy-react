@@ -7,7 +7,7 @@ export default function Header() {
 		<header>
 			<div className="container headerContainer">
 				<h1>Elizabeth Jeudy</h1>
-				<h5 className="text-light">Front-end Developer</h5>
+				<h5 className="text-light">Software Developer</h5>
 				<Socials />
 				<a href="#contact" className="scroll-down">
 					Resume
