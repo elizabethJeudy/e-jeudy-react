@@ -1,5 +1,5 @@
 import React from "react";
-import ElizabethJeudy from "../images/Elizabeth Jeudy.pdf";
+import ElizabethJeudy from "../images/ElizabethJeudy.pdf";
 
 export default function CTA() {
 	return (
