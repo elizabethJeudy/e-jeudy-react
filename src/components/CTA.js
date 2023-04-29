@@ -1,10 +1,10 @@
 import React from "react";
-import ElizabethJeudyResume from "../images/ElizabethJeudyResume.png";
+import ElizabethJeudy from "../images/Elizabeth Jeudy.pdf";
 
 export default function CTA() {
 	return (
 		<div className="cta">
-			<a href={ElizabethJeudyResume} download className="btn">
+			<a href={ElizabethJeudy} download className="btn">
 				Resume
 			</a>
 			<a href="mailto:tjeudy.e@gmail.com" className="btn btn-primary">
