@@ -1,5 +1,5 @@
 # Elizabeth Jeudy Portfolio
-https://www.ejeudy.com/
+https://www.elizabethjeudy.com/
 
 ## Description:
 
