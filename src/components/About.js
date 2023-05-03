@@ -19,7 +19,7 @@ export default function About() {
 						<article className="about-card">
 							<FaAward className="about-icon" />
 							<h5>Tech Stack</h5>
-							<small>HTML, CSS, JavaScript, React.js, Node.js</small>
+							<small> JavaScript, React.js, Node.js, Java (early stages)</small>
 						</article>
 
 						<article className="about-card">
@@ -40,9 +40,9 @@ export default function About() {
 					<p>
 						Hey, I'm Elizabeth and I'm an enthusiastic and driven Software
 						Developer who is passionate about creating innovative and
-						user-friendly solutions. With my expertise in HTML, CSS, JavaScript,
-						and React, I have a strong foundation in Front-End web development
-						and am eager to expand my skills to Full Stack Development. <br />
+						user-friendly solutions. With my expertise in JavaScript, and React,
+						I have a strong foundation in Front-End web development and am eager
+						to expand my skills to Full Stack Development. <br />
 						<br />
 						I'm a creative problem-solver who is always seeking out new
 						challenges and opportunities to learn. I am adept at turning complex
