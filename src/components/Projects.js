@@ -15,6 +15,7 @@ export default function Projects() {
 						<img src={wordle} alt=""></img>
 					</div>
 					<h3>Wordle Clone</h3>
+					<h4>React, Node.js</h4>
 					<div className="ctaBtns">
 						<a
 							href="https://github.com/elizabethJeudy/wordleClone"
@@ -40,6 +41,7 @@ export default function Projects() {
 						<img src={dictionary} alt=""></img>
 					</div>
 					<h3>Dictionary App</h3>
+					<h4> React.js, Node.js, Axios</h4>
 					<div className="ctaBtns">
 						<a
 							href="https://github.com/elizabethJeudy/dictionary-app"
@@ -65,6 +67,7 @@ export default function Projects() {
 						<img src={weatherappreact} alt=""></img>
 					</div>
 					<h3>Weather App React</h3>
+					<h4> React.js, Node.js, Axios</h4>
 					<div className="ctaBtns">
 						<a
 							href="https://github.com/elizabethJeudy/weather-app-react"

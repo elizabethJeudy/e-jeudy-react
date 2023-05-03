@@ -1,6 +1,6 @@
 @import url('https: //fonts.googleapis.com/css2?family=Italiana&family=Roboto:wght@100&display=swap');
 
-/* general stying */
+/* general styling */
 
 * {
   margin: 0;
@@ -63,6 +63,12 @@ h5 {
 
 }
 
+h4 {
+  font-family: 'Italiana';
+  font-style: italic;
+  color: var(--bdr-color2)
+}
+
 p,
 small,
 .btn,
@@ -75,8 +81,6 @@ section {
   margin-top: 8rem;
 
 }
-
-
 
 .text-light {
   opacity: .25;

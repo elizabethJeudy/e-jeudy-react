@@ -19,7 +19,7 @@ export default function About() {
 						<article className="about-card">
 							<FaAward className="about-icon" />
 							<h5>Tech Stack</h5>
-							<small>HTML, CSS, JavaScript, React.js</small>
+							<small>HTML, CSS, JavaScript, React.js, Node.js</small>
 						</article>
 
 						<article className="about-card">
