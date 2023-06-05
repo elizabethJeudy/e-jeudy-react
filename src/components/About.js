@@ -19,7 +19,10 @@ export default function About() {
 						<article className="about-card">
 							<FaAward className="about-icon" />
 							<h5>Tech Stack</h5>
-							<small> JavaScript, React.js, Node.js, Java (early stages)</small>
+							<small>
+								{" "}
+								JavaScript, React.js, Node.js, Firebase, Java (early stages)
+							</small>
 						</article>
 
 						<article className="about-card">
