@@ -21,7 +21,7 @@ export default function About() {
 							<h5>Tech Stack</h5>
 							<small>
 								{" "}
-								JavaScript, React.js, Node.js, Firebase, Java (early stages)
+								HTML/CSS, JavaScript, React.js, Node.js, Java (early stages)
 							</small>
 						</article>
 
