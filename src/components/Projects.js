@@ -1,6 +1,6 @@
 import React from "react";
 import "./Projects.css";
-// import weatherappreact from "../images/weatherappreact.jpg";
+import weatherappreact from "../images/weatherappreact.jpg";
 import dictionary from "../images/dictionary.png";
 import wordle from "../images/wordle.png";
 import AQIchecker from "../images/AQIchecker.jpg";
@@ -91,10 +91,12 @@ export default function Projects() {
 						</a>
 					</div>
 				</article>
-				{/** 				<article className="project-item">
+				<article className="project-item">
 					<div className="project-img">
 						<img src={weatherappreact} alt=""></img>
 					</div>
+
+					{/* weather app */}
 					<h3>Weather App React</h3>
 					<h4> React.js, Node.js, Axios</h4>
 					<div className="ctaBtns">
@@ -115,7 +117,7 @@ export default function Projects() {
 							Demo
 						</a>
 					</div>
-				</article>*/}
+				</article>
 			</div>
 			<div id="contact" className="cta">
 				<CTA />
