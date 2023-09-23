@@ -41,22 +41,19 @@ export default function About() {
 					</div>
 
 					<p>
-						Hey, I'm Elizabeth and I'm an enthusiastic and driven Software
-						Developer who is passionate about creating innovative and
-						user-friendly solutions. With my expertise in JavaScript, and React,
-						I have a strong foundation in Front-End web development and am eager
-						to expand my skills to Full Stack Development. <br />
+						Hey, I’m Elizabeth, a self-motivated Front-end Developer
+						transitioning after 5 years in hospitality and a BA in Human
+						Services. My background in service-oriented fields allows for a
+						user-focused approach to design and development. I aim to build
+						interfaces centered on the end user's experience. <br /> Although
+						new to software engineering, I’m continuously excited to learn new
+						technical skills. I’m a lifelong reader, especially of fantasy and
+						non-fiction, which always brings curiosity to continuously improve
+						as a developer. <br />
+						While currently learning independently, I look forward to eventually
+						collaborating with creative teams to bring products to life. <br />
 						<br />
-						I'm a creative problem-solver who is always seeking out new
-						challenges and opportunities to learn. I am adept at turning complex
-						problems into elegant solutions and committed to delivering
-						high-quality work that meets user needs.
-						<br />
-						<br />
-						Beyond my technical skills, I'm a well-rounded individual who enjoys
-						reading and traveling in my free time. My curiosity and sense of
-						adventure make me a valuable team member who is always looking for
-						ways to grow and improve. Feel free to{" "}
+						Feel free to{" "}
 						<a
 							href="https://www.linkedin.com/in/elizabeth-jeudy/"
 							target="_blank"
