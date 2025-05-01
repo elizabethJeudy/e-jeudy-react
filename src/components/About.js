@@ -41,17 +41,22 @@ export default function About() {
 					</div>
 
 					<p>
-						Hey, I’m Elizabeth, a self-motivated Front-end Developer
-						transitioning after 5 years in hospitality and a BA in Human
-						Services. My background in service-oriented fields allows for a
-						user-focused approach to design and development. I aim to build
-						interfaces centered on the end user's experience. <br /> Although
-						new to software engineering, I’m continuously excited to learn new
-						technical skills. I’m a lifelong reader, especially of fantasy and
-						non-fiction, which always brings curiosity to continuously improve
-						as a developer. <br />
-						While currently learning independently, I look forward to eventually
-						collaborating with creative teams to bring products to life. <br />
+						Hi, I’m Elizabeth—a self-motivated Front-end Developer with a
+						background in hospitality and a BA in Human Services. My experience
+						in psychology and service-driven environments has shaped a
+						user-first mindset rooted in empathy, clear communication, and
+						thoughtful problem-solving.
+						<br /> I’m currently earning my BS in Software Engineering at
+						Western Governors University, where I’m growing my skills in Java
+						and front-end development. I also enjoy working with design tools
+						like Canva and am learning Figma to better understand the full
+						product design process.
+						<br /> As a lifelong learner and passionate advocate for mental
+						health, I’m especially drawn to projects that promote well-being and
+						align with my Christian values.
+						<br /> I’m currently seeking internship or apprenticeship
+						opportunities where I can contribute, grow, and collaborate with
+						mission-driven teams. Let’s build something meaningful together.
 						<br />
 						Feel free to{" "}
 						<a
