@@ -47,9 +47,9 @@ export default function About() {
 						user-first mindset rooted in empathy, clear communication, and
 						thoughtful problem-solving.
 						<br /> I’m currently earning my BS in Software Engineering at
-						Western Governors University, where I’m growing my skills in Java
-						and front-end development. I also enjoy working with design tools
-						like Canva and am learning Figma to better understand the full
+						Western Governors University, where I’m growing my skills in Java,
+						Python and front-end development. I also enjoy working with design
+						tools like Canva and am learning Figma to better understand the full
 						product design process.
 						<br /> As a lifelong learner and passionate advocate for mental
 						health, I’m especially drawn to projects that promote well-being and
